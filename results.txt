@@ -1,0 +1,36 @@
+data file selected is traffic_data16062024.csv
+The total number of vehicles recorded for this day 101
+The total number of trucks recorded for this date 11
+0 electric vehicles recorded for this date
+11 two-wheeled vehicles recorded for this date
+total number of busses leaving Elm Avenue/Rabbit Road heading north 1
+38 vehicles driven through both junctions without turning right or left
+Total vehicles through Elm Avenue/Rabbit Road:52
+Total vehicles through Hanley Highway/Westway:49
+The percentage of total vehicles recorded that are trucks for this date is 11%
+6% of vehicles recorded through Elm Avenue/Rabbit Road are scooters
+Raining hours for this day: 3
+data file selected is traffic_data21062024.csv
+The total number of vehicles recorded for this day 1334
+The total number of trucks recorded for this date 138
+0 electric vehicles recorded for this date
+126 two-wheeled vehicles recorded for this date
+total number of busses leaving Elm Avenue/Rabbit Road heading north 15
+494 vehicles driven through both junctions without turning right or left
+Total vehicles through Elm Avenue/Rabbit Road:651
+Total vehicles through Hanley Highway/Westway:683
+The percentage of total vehicles recorded that are trucks for this date is 10%
+10% of vehicles recorded through Elm Avenue/Rabbit Road are scooters
+Raining hours for this day: 6
+data file selected is traffic_data15062024.csv
+The total number of vehicles recorded for this day 1037
+The total number of trucks recorded for this date 109
+0 electric vehicles recorded for this date
+109 two-wheeled vehicles recorded for this date
+total number of busses leaving Elm Avenue/Rabbit Road heading north 11
+363 vehicles driven through both junctions without turning right or left
+Total vehicles through Elm Avenue/Rabbit Road:494
+Total vehicles through Hanley Highway/Westway:543
+The percentage of total vehicles recorded that are trucks for this date is 11%
+11% of vehicles recorded through Elm Avenue/Rabbit Road are scooters
+Raining hours for this day: 0
